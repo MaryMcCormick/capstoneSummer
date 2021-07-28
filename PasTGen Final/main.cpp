@@ -17,6 +17,7 @@ int main() {
 			test.runTest(nextTry);
 			score = test.rate;
 		}
+		break;
 	}
 	cout << "\nPress Any Key To Exit...";
 	string in;
