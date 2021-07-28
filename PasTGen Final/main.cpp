@@ -17,9 +17,12 @@ int main() {
 			test.runTest(nextTry);
 			score = test.rate;
 		}
-		break;
+		else{
+			break;
+		}
 	}
 	cout << "\nPress Any Key To Exit...";
 	string in;
 	cin >> in;
+	exit(0);
 }
