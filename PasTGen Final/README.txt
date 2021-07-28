@@ -33,5 +33,7 @@ SPECIFICATIONS:
 	Should the password succeed, the generator will display your password and the hashed password.
 
 	Otherwise, the generator will generate a new password to test. It will continue doing this until either a successful password is reached or 10 attempts have occurred.
+	
+	To exit the program, when prompted, press any character key, followed by ENTER.
 
 I hope you enjoy using PasTGen.
